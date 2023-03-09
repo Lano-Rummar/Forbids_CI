@@ -4,7 +4,7 @@
 <head>
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title> Admin Panel</title>
+	<title> Admin Forbids</title>
 
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/admin/css/bootstrap.min.css">
 	<link rel="stylesheet" href="<?php echo base_url() ?>assets/admin/css/themify-icons.css">

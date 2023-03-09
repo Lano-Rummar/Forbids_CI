@@ -72,7 +72,7 @@
 						<img src="<?php echo base_url() ?>assets/images/admin.jpg" alt="">
 					</a>
 					<div class="view">
-						<h4>Demo Admin Panel</h4>
+						<h4>Demo Admin Forbids</h4>
 
 						<div class="demo-row  row">
 							<div class="col-md-4">
