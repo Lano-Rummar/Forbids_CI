@@ -23,7 +23,7 @@
 	<div class="container">
 
 		<div class="row title-demo">
-			<h2>Smart Forum Demo login Details</h2>
+			<h2>Forbids Demo login Details</h2>
 		</div>
 		<div class="row cvfg">
 			<div class="col-md-6">

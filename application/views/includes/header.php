@@ -32,7 +32,7 @@
 			<div class="row">
 				<div class="col-lg-3 col-md-3 d-lokj">
 					<a href="<?php echo base_url() ?>">
-						<img src="<?php echo base_url() ?>upload/admin/logoo.png?<?php echo date("Ymd"); ?>" alt="Smart Forum">
+						<img src="<?php echo base_url() ?>upload/admin/logoo.png?<?php echo date("Ymd"); ?>" alt="Forbids">
 					</a>
 					<a data-toggle="collapse" data-target="#search" href="#search">
 						<i class="fas  d-md-none fa-search"></i>
