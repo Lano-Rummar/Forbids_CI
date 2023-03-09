@@ -25,7 +25,7 @@
 
 			<div id="sidebar" class="teft-part">
 				<div class="logo-part">
-					<img src="<?php echo base_url() ?>upload/admin/logo.png?<?php echo date("Ymd"); ?>" alt="">
+					<img src="<?php echo base_url() ?>upload/admin/logoo.png?<?php echo date("Ymd"); ?>" alt="">
 
 				</div>
 				<nav id="nav-div">
@@ -36,7 +36,7 @@
 
 
 						<li><a href="<?php echo base_url() ?>admin/category"><i class="fas fa-cubes"></i>
-								<span> Category </span></a>
+								<span> Post Category </span></a>
 						</li>
 						<li><a href="<?php echo base_url() ?>admin/view_users"><i class="fas fa-users"></i>
 								<span> View Users </span></a>
@@ -56,7 +56,7 @@
 
 
 						<li class="bottom-line"><a href="<?php echo base_url() ?>admin/new_ad"><i class="icon-grid"></i>
-								<span> Manage Ads </span></a>
+								<span> Manage Banner </span></a>
 						</li>
 
 

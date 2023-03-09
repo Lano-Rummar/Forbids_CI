@@ -41,7 +41,7 @@
     </li>
     <li>
       <a href="<?php echo base_url() ?>users/my_replay">
-        <i class="fas fa-retweet"></i> My Replays
+        <i class="fas fa-retweet"></i> My Reply
       </a>
     </li>
     <li>

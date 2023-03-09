@@ -22,7 +22,7 @@
 				<div class="row no-margin">
 					<div class="col-sm-3">
 
-						<img src="<?php echo base_url() ?>upload/admin/logo.png?<?php echo date("Ymd"); ?>" alt="">
+						<img src="<?php echo base_url() ?>upload/admin/logoo.png?<?php echo date("Ymd"); ?>" alt="">
 
 					</div>
 				</div>
@@ -34,7 +34,7 @@
 				<div class="login-box">
 					<div class="logo-cover d-flex align-items-center">
 
-						<strong> Admin login</strong>
+						<strong> Login Admin </strong>
 
 
 					</div>
@@ -68,7 +68,7 @@
 							</div>
 							<div class="form-group align-right">
 								<button class="btn  btn-primary btn-round">
-									Sign IN
+									Login
 								</button>
 							</div>
 						</form>

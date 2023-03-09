@@ -26,9 +26,6 @@
 <footer>
   <div class="container">
     <div class="row">
-      <div class="col-sm-1 col-2 no-padding">
-        <img src="<?php echo base_url() ?>assets/images/fav.png?<?php echo date("Ymd"); ?>" alt="">
-      </div>
       <div class="col-sm-7 col-10">
         <p>Copyright &copy; <script>
             document.write(new Date().getFullYear())

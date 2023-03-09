@@ -31,7 +31,7 @@
 			<div class="widget-2-cover color-3 row no-margin">
 				<div class="col-sm-9">
 					<h4>{{replay}}</h4>
-					<span>Today Replays</span>
+					<span>Today Reply</span>
 				</div>
 				<div class="col-sm-3 no-padding">
 					<div class="widget-icon">
@@ -42,52 +42,4 @@
 		</div>
 
 	</div>
-
-	<!--**** Information Widget - 2 End  ****-->
-
-
-
-
-	<!------- Chart Row Start Here ----------->
-
-	<!--div class="row  chart-row">
-		<div class="col-12 col-lg-6 col-xl-6">
-			<div class="chart-cover">
-				<div class="card-header">
-					Last Week Report
-
-				</div>
-				<div class="card-body">
-					<div style="position: absolute; left: 0px; top: 0px; right: 0px; bottom: 0px; overflow: hidden; pointer-events: none; visibility: hidden; z-index: -1;" class="chartjs-size-monitor">
-						<div class="chartjs-size-monitor-expand" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;">
-							<div style="position:absolute;width:1000000px;height:1000000px;left:0;top:0"></div>
-						</div>
-						<div class="chartjs-size-monitor-shrink" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;">
-							<div style="position:absolute;width:200%;height:200%;left:0; top:0"></div>
-						</div>
-					</div>
-					<canvas id="dashboard-chart-1" height="232" style="display: block; width: 290px; height: 232px;" width="290" class="chartjs-render-monitor"></canvas>
-				</div>
-			</div>
-		</div>
-		<div class="col-12 col-lg-6 col-xl-6">
-			<div class="chart-cover">
-				<div class="card-header">
-					Post by Category
-
-				</div>
-				<div class="card-body">
-					<div style="position: absolute; left: 0px; top: 0px; right: 0px; bottom: 0px; overflow: hidden; pointer-events: none; visibility: hidden; z-index: -1;" class="chartjs-size-monitor">
-						<div class="chartjs-size-monitor-expand" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;">
-							<div style="position:absolute;width:1000000px;height:1000000px;left:0;top:0"></div>
-						</div>
-						<div class="chartjs-size-monitor-shrink" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;">
-							<div style="position:absolute;width:200%;height:200%;left:0; top:0"></div>
-						</div>
-					</div>
-					<canvas id="dashboard-chart-2" height="232" style="display: block; width: 290px; height: 232px;" width="290" class="chartjs-render-monitor"></canvas>
-				</div>
-			</div>
-		</div>
-	</div-->
 </div>

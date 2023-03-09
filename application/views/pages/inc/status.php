@@ -8,7 +8,7 @@
 		</div>
 		<div class="col-4 r-bord scc">
 			<i class="fas fa-retweet"></i>
-			<p> Replay</p>
+			<p> Reply</p>
 			<b>{{formatCount(replay)}}</b>
 		</div>
 		<div class="col-4 scc">

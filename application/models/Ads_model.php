@@ -27,4 +27,3 @@ class Ads_model extends CI_Model{
         $this->db->update('script_header', $arr);
     }
 }
-?>
