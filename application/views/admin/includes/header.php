@@ -115,7 +115,7 @@
 
 									<li class="">
 										<a href="<?php echo base_url() ?>admin/user_settings">
-											<i class="fas fa-user-cog  mr-2"></i> User Settings
+											<i class="fas fa-user-cog  mr-2"></i> Admin Settings
 										</a>
 									</li>
 									<li class="">
