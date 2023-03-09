@@ -1,10 +1,10 @@
 <!--  ************************* Page Title Starts Here ************************** -->
 <div class="page-title row no-margin">
-	<h4>App Settings</h4>
+	<h4>Forum Settings</h4>
 	<ul>
 		<li><a>Home <i class="fas fa-angle-double-right"></i></a></li>
 		<li><a>Settings <i class="fas fa-angle-double-right"></i></a></li>
-		<li>App Settings</li>
+		<li>Forum Settings</li>
 	</ul>
 </div> <!-- Page Title End -->
 
@@ -14,7 +14,7 @@
 
 	<div class="col-lg-8 float-auto">
 		<div class="panel-card">
-			<div class="panel-header">App Settings</div>
+			<div class="panel-header">Forum Settings</div>
 			<div class="form-body">
 				<p class="err bgghn-err" id="err">Password not Match Please try again</p>
 

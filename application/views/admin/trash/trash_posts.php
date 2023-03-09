@@ -1,9 +1,9 @@
 <!--  ************************* Page Title Starts Here ************************** -->
 <div class="page-title row no-margin">
-	<h4>View Posts</h4>
+	<h4>Post Trash</h4>
 	<ul>
 		<li><a>Home <i class="fas fa-angle-double-right"></i></a></li>
-		<li>View Posts</li>
+		<li>Post Trash</li>
 	</ul>
 </div> <!-- Page Title End -->
 
@@ -19,7 +19,7 @@
 
 
 				<table id="table_id" class="display table">
-					
+
 				</table>
 
 

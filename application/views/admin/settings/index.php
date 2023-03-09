@@ -1,10 +1,10 @@
 <!--  ************************* Page Title Starts Here ************************** -->
 <div class="page-title row no-margin">
-	<h4>Admin Settings</h4>
+	<h4>Profile Settings</h4>
 	<ul>
 		<li><a>Home <i class="fas fa-angle-double-right"></i></a></li>
 		<li><a>Settings <i class="fas fa-angle-double-right"></i></a></li>
-		<li>Admin Settings</li>
+		<li>Profile Settings</li>
 	</ul>
 </div> <!-- Page Title End -->
 
@@ -14,7 +14,7 @@
 
 	<div class="col-lg-6 float-auto">
 		<div class="panel-card">
-			<div class="panel-header">Admin Profile Settings</div>
+			<div class="panel-header">Profile Settings</div>
 			<div class="form-body">
 				<form action="<?php echo base_url() ?>admin/updatedetails" method="post" enctype="multipart/form-data">
 					<div class="form-group  row">

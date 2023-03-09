@@ -36,14 +36,14 @@
 
 
 						<li><a href="<?php echo base_url() ?>admin/category"><i class="fas fa-cubes"></i>
-								<span> Post Category </span></a>
+								<span> Manage Category </span></a>
 						</li>
 						<li><a href="<?php echo base_url() ?>admin/view_users"><i class="fas fa-users"></i>
 								<span> View Users </span></a>
 						</li>
 
 						<li class="bottom-line"><a href="<?php echo base_url() ?>admin/view_posts"><i class="far fa-credit-card"></i>
-								<span> View Post </span></a>
+								<span> View Posts </span></a>
 						</li>
 
 						<li><a href="<?php echo base_url() ?>admin/trash_users"><i class="far fa-trash-alt"></i>
@@ -61,11 +61,11 @@
 
 
 						<li><a href="<?php echo base_url() ?>admin/user_settings"><i class="fas fa-user-cog"></i>
-								<span> Admin Profile Settings </span></a>
+								<span> Profile Settings </span></a>
 						</li>
 
 						<li class="bottom-line"><a href="<?php echo base_url() ?>admin/password_setings"><i class="fas fa-user-lock"></i>
-								<span> Admin Pass Settings </span></a>
+								<span> Password Settings </span></a>
 						</li>
 
 						<li class="bottom-line"><a href="<?php echo base_url() ?>admin/app_setings"><i class="fas fa-cogs"></i>
