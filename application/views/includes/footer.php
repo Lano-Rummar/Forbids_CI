@@ -116,10 +116,10 @@
             </div>
             <div class="row no-margin form-row">
               <div class="col-sm-4">
-                <label for="">Designation</label><span class="rit-coln">:</span>
+                <label for="">Nickname</label><span class="rit-coln">:</span>
               </div>
               <div class="col-sm-8">
-                <input id="sudesig" type="text" name="designation" placeholder="Enter Designation" class="form-control form-control-sm">
+                <input id="sudesig" type="text" name="designation" placeholder="Enter Nickname" class="form-control form-control-sm">
                 <div class="smart-valid" id="sudesig-err"></div>
               </div>
             </div>
