@@ -7,20 +7,19 @@
 
     </div>
     <div class="my-icons row no-margin">
-      <ul >
-        <li class="flot-btn"  id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <ul>
+        <li class="flot-btn" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 
-            <i class="fas fa-ellipsis-v"></i>
+          <i class="fas fa-ellipsis-v"></i>
 
           <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
-          <!--   <button class="dropdown-item" type="button"><i class="far fa-edit"></i> Edit</button> -->
             <button v-on:click="deleteReplay(i)" class="dropdown-item" type="button"><i class="far fa-trash-alt"></i> Delete</button>
 
           </div>
 
         </li>
-      <li><i class="fas fa-heart heart"></i> <small>{{p.like}}</small></li>
-    </ul>
+        <li><i class="fas fa-heart heart"></i> <small>{{p.like}}</small></li>
+      </ul>
     </div>
 
   </div>

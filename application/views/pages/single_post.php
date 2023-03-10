@@ -79,7 +79,7 @@
 						<div class="replay-text">
 							<textarea class="form-control form-control-sm" name="" id="summernote"></textarea>
 							<div class="post-replay-btn ">
-								<button v-on:click="addReplay()" class="btn btn-info btn-sm">Post Replay</button>
+								<button v-on:click="addReplay()" class="btn btn-info btn-sm">Post Reply</button>
 							</div>
 						</div>
 					</div>
